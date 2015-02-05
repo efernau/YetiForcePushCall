@@ -1,0 +1,20 @@
+//okno konfiguracyjne
+
+push_call_label_username => 'Nazwa użytkownika'
+push_call_label_key => 'Klucz telefonu'
+push_call_label_host_address => 'Adres CRM, np. http://test.yetiforce.com'
+
+push_call_label_save_logs_in_file => 'Zapisuj logi w pliku'
+push_call_label_call_confirmation => 'Potwierdź każde połączenie'
+
+push_call_button_ok => 'OK'
+
+//panel sprawdzania dostępności usługi po stronie serwera
+
+push_call_service_availability_progress => 'Sprawdzanie dostępności usługi...'
+
+push_call_service_tap_to_check => 'Kliknij przycisk odświeżania żeby sprawdzić dostępność usługi.'
+push_call_service_is_available => 'Usługa jest aktywna po stronie serwera.'
+push_call_service_is_not_available => 'Usługa nie jest aktywna po stronie serwera lub połączenie sieciowe jest nieaktywne!'
+
+push_call_service_refrest_button => 'Sprawdź'
